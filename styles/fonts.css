@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'jost';
+    src: url(../fonts/Jost-Regular.ttf) format(ttf);
+}
+
+@font-face {
+    font-family: 'jost-Black';
+    src: url(../fonts/Jost-Black.ttf) format(ttf);
+}

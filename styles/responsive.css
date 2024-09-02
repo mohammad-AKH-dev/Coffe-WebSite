@@ -1,0 +1,728 @@
+
+
+@media all and (min-width:992px) {
+    .mobile-nav{
+        visibility: hidden;
+        opacity: 0;
+    }
+}
+
+
+@media all and (max-width:1400px) {
+    
+}
+
+@media all and (max-width:1200px) {
+    .header-title-text{
+        font-size: 9.4rem;
+    }
+    .shop-rate-wrapper{
+        bottom: 1.5rem;
+        right: 28rem;
+    }
+    .explore-boxWrapper{
+        gap: 2rem;
+    }
+    .explore-box-info{
+        max-width: 24rem;
+    }
+    .order-title{
+        font-size: 4.2rem;
+    }
+    .order-description{
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 1.5rem;
+    }
+    .order-button{
+        padding-right: 3rem;
+        padding-left: 3rem;
+    }
+    .buy-button{
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+    .price-wrapper{
+        gap: 2rem;
+    }
+    .order-wrapper{
+        gap: 0;
+    }
+    .instant-first__img,.instant-second__img{
+        max-width: 40rem;
+    }
+    .instant-first__img{
+        margin-left: 6rem;
+    }
+    .instant-second__img{
+        left: 37.5rem;
+    }
+    .rate-wrapper{
+        display: block;
+    }
+    .logo-wrapper{
+        padding-left: 15px;
+    }
+    .store-locations__wrapper{
+        padding-left: 15px;
+    }
+    .Copyright-wrapper{
+        justify-content: space-between;
+        gap: 0;
+    }
+    .mohito-wrapper{
+        width: 25rem;
+        top: -38rem;
+    }
+    .customers-bg{
+        top: -24rem;
+        left: 11rem;
+        width: 30rem;
+    }
+    .LogoImage{
+        width: 12.6rem;
+        height: 5rem;
+    }
+}
+
+@media all and (max-width:992px) {
+    .purchase-wrapper{
+        width: 16.8rem;
+    }
+    .purchase{
+        letter-spacing: 0;
+    }
+    .nav-list{
+        display: none;
+    }
+    .basket-wrapper{
+        display: none;
+    }
+    .humbergur-menu{
+        display: flex;
+    }
+    .LogoImage {
+        width: 15.6rem;
+        height: 7rem;
+    }
+    .wrapper{
+        gap: 0;
+    }
+    .shop-rate-wrapper{
+        bottom: -10.5rem;
+        right: 0rem;
+    }
+    .header-title-text{
+        font-size: 7.4rem;
+    }
+    .header-title{
+        margin-bottom: -13rem;
+    }
+
+    .main-headerlogo__wrapper{
+        max-width: 10.4rem;
+        max-height: 9.46rem;
+        bottom: 2rem;
+        left: 4rem;
+        top: auto;
+        right: auto;
+    }
+    .title-wrapper{
+        padding-left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .explore-box-info__description{
+        text-align: center;
+    }
+    .Explore-menu{
+        margin-top: 30rem;
+        margin-bottom: 20rem;
+    }
+    .bg-imgWrapper{
+        top: 2rem;
+        left: -21rem;
+    }
+    .order-wrapper{
+        flex-wrap: wrap-reverse;
+        text-align: center;
+        gap: 5rem;
+     }
+     .order-title{
+        font-size: 6.4rem;
+        max-width: none;
+     }
+     .order-description{
+        font-size: 1.9rem;
+        max-width: none;
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+     }
+     .order-button{
+        padding-left: 10rem;
+        padding-right: 10rem;
+     }
+     .orderDesc-wrapper{
+        margin: 0;
+     }
+     .main{
+        margin-top: 20rem;
+     }
+     .buy-button{
+        padding-right: 2.5rem;
+        padding-left: 2.5rem;
+     }
+     .instant-img__wrapper{
+        max-height: 48.7rem;
+     }
+     .instant-first__img,.instant-second__img{
+        max-width: 30rem;
+    }
+    .instant-second__img{
+        left: 31.5rem;
+    }
+    .instant-coffe__title{
+        font-size: 4.5rem;
+        max-width: 28rem;
+    }
+    .instant-coffe__description{
+        font-size: 1.6rem;
+        max-width: 33rem;
+    }
+    .order-section{
+        margin-bottom: 10rem;
+    }
+    .instant-coffe{
+        margin-top: 10rem;
+    }
+    .limonad-bg__wrapper{
+        max-width: 27rem;
+        top: -18rem;
+    }
+    .customers-wrapper{
+        flex-wrap: wrap-reverse;
+    }
+    .rate-wrapper{
+        display: flex;
+    }
+    .customers-details{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .title-detail{
+        font-size: 6.5rem;
+        text-align: center;
+        max-width: 49rem;
+    }
+    .arrows-wrapper{
+        margin-top: 3rem;
+    }
+    .footer-logo__description{
+        font-size: 1.8rem;
+    }
+    .footer-logo__img{
+        width: 22.7rem;
+        height: 9.2rem;
+    }
+    .contact-title{
+        font-size: 3rem;
+        margin-bottom: 4rem;
+    }
+    .gmail,.number{
+        font-size: 1.8rem;
+    }
+    .icons-wrapper{
+        gap: 2.5rem;
+        margin-right: 3rem;
+    }
+    .contact-information__wrapper{
+        gap: 2rem;
+    }
+    .store-location__description{
+        font-size: 1.8rem;
+    }
+    .gmail-input__wrapper{
+        margin-top: 2rem;
+        width: 24rem;
+    }
+    .store-location__title,.find-out__title{
+        font-size: 3rem;
+    }
+    .subscribe-button{
+        margin-left: -10rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    .mohito-wrapper {
+        width: 20rem;
+        top: -30rem;
+    }
+    .customers-bg{
+        width: 33rem;
+        top: -29rem;
+        left: 7rem;
+    }
+}
+
+@media all and (max-width:768px) {
+     .center{
+        flex-wrap: wrap;
+        gap: 14rem;
+     }
+     .header-title-text{
+        display: flex;
+        font-size: 9.4rem;
+     }
+     .header-title{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin-top: 5rem;
+     }
+     .header-logo{
+        display: none;
+     }
+     .header-img_wrapper{
+        margin-top: 5rem;
+     }
+     .shop-rate-wrapper{
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+        bottom: -11.5rem;
+        padding-left: 1.5rem;
+        text-align: center;
+        max-width: 28rem;
+     }
+     .main-headerlogo__wrapper{
+         bottom: 5rem;
+         left: 11rem;
+     }
+     .main-header-logo{
+     }
+     .shop-rate__description{
+        max-width: 20rem;
+        margin: auto;
+        font-size: 1.6rem;
+     }
+     .bg-imgWrapper{
+        max-width: 30rem;
+        top: -2rem;
+        left: -17rem;
+     }
+     
+     .orderDesc-wrapper{
+        margin: 0;
+     }
+     .order-title{
+        font-size: 6.5rem;
+     }
+     .order-description{
+        font-size: 1.8rem;
+     }
+     .order-button{
+      
+     }
+     .new-bg-imgwrapper{
+        top: 6rem;
+     }
+     .best-item{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .instant-img__wrapper{
+        position: relative;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .instant-second__img{
+        display: none;
+    }
+    .instant-first__img,.instant-second__img{
+        max-width: 50rem;
+    }
+    .instant-first__img{
+        margin: 0 auto;
+    }
+    .instant-text{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+    }
+    .instant-coffe__title{
+        font-size: 6.5rem;
+        max-width: 41rem;
+    }
+    .instant-coffe__description{
+        max-width: none;
+        font-size: 1.9rem;
+        margin-bottom: 4rem;
+    }
+    .instant-coffe__wrapper{
+        gap: 5rem;
+    }
+    .limonad-bg__wrapper{
+        top: 20rem;
+        max-width: none;
+    }
+    .customers-comments{
+        margin-top: 40rem;
+    }
+    .user-comment{
+        max-width: none;
+    }
+    .footer-logo__img{
+        width: 17.7rem;
+        height: 8.2rem
+    }
+    .footer-logo__description{
+        font-size: 1.6rem;
+    }
+    .contact-title{
+        font-size: 2.5rem;
+    }
+    .gmail, .number{
+        font-size: 1.5rem;
+    }
+    .icons-wrapper {
+        gap: 1.5rem;
+        margin-right: 4rem;
+    }
+    .store-location__description{
+        font-size: 1.6rem;
+    }
+    .account-find__description{
+        font-size: 1.5rem;
+    }
+    .store-location__title, .find-out__title{
+        font-size: 2.5rem;
+    }
+    .subscribe-button{
+        margin-top: 2rem;
+    }
+    .customers-bg{
+        display: none;
+    }
+}
+
+@media all and (max-width:576px) {
+    .navbar{
+        justify-content: space-between;
+    }
+    .shop-rate-wrapper{
+        bottom: -14.5rem;
+    }
+    .main-headerlogo__wrapper{
+        display: none;
+    }
+    .bg-imgWrapper{
+        display: none;
+    }
+    .explore-box-info{
+        max-width: none;
+    }
+    .order-title{
+        font-size: 5.5rem;
+    }
+    .new-bg-imgwrapper{
+        display: none;
+    }
+    .price-wrapper{
+        flex-direction: column;
+        text-align: center;
+    }
+    .price{
+        font-size: 3.9rem;
+    }
+    .item-description{
+        text-align: center;
+        margin-top: 2rem;
+    }
+    .instant-first__img{
+        max-width: none;
+        width: 100%;
+    }
+    .instant-coffe__title{
+        font-size: 5.5rem;
+    }
+    .instant-coffe__description{
+        font-size: 1.6rem;
+    }
+    .desc-price__wrapper{
+        margin-left: 0;
+    }
+    .limonad-bg__wrapper{
+        top: 20rem;
+        max-width: 22rem;
+    }
+    .title-detail{
+        font-size: 5.5rem;
+    }
+    .footer-logo__description{
+        font-size: 1.9rem;
+    }
+    .footer-logo__img {
+        width: 23.7rem;
+        height: 11.2rem;
+    }
+    .contact-wrapper{
+        text-align: center;
+    }
+    .contact-information__wrapper{
+        gap: 4rem;
+    }
+    .contact-title{
+        font-size: 4rem;
+        margin-bottom: 0rem;
+    }
+    .gmail, .number {
+        font-size: 2.3rem;
+    }
+    .icons-wrapper {
+        gap: 3.5rem;
+        margin-right: 5rem;
+    }
+    .store-location__title, .find-out__title{
+        font-size: 4rem;
+    }
+    .subscribe-button{
+        margin-left: 0;
+    }
+    .gmail-input__wrapper{
+        width: 30rem;
+    }
+    .store-locations__wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .store-location__description{
+        max-width: 36rem;
+    }
+    .location-wrapper{
+        gap: 5rem;
+    }
+    .subscribe-button{
+        padding: 1.5rem 10rem 1.5rem 10rem;
+    }
+    .find-wrapper{
+        position: relative;
+    }
+    .find-arrow{
+        position: absolute;
+        transform: rotate(90deg);
+        inset: 0;
+        margin: 0 auto;
+        top: 3rem;
+    }
+    .footer-logo__description{
+        max-width: none;
+    }
+    .Copyright-wrapper{
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        gap: 1rem;
+    }
+    .terms{
+        margin-left: 0;
+    }
+    .mohito-wrapper {
+        width: 15rem;
+        top: -23rem;
+    }
+    *{
+        cursor: default !important;
+    }
+    .nav-wrapper{
+        flex-direction: column-reverse;
+    }
+    .logo-dark__light-wrapper{
+        flex-direction: column;
+    }
+}
+
+@media all and (max-width:440px) {
+    .LogoImage {
+        width: 10.6rem;
+        height: 6rem;
+    }
+    .purchase-wrapper {
+        width: 14.8rem;
+    }
+    .header-title-text{
+        font-size: 7.4rem;
+    }
+    .download-btns-wrapper{
+        flex-direction: column;
+    }
+    .order-title{
+        font-size: 4rem;
+    }
+    .order-description{
+        font-size: 1.5rem;
+    }
+    .shop-rate-wrapper{
+        width: auto;
+    }
+    .buy-button{
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
+    .limonad-bg__wrapper{
+        display: none;
+    }
+    .title-detail{
+        font-size: 4.5rem;
+    }
+    .number{
+        white-space: nowrap;
+    }
+}
+
+@media all and (max-width:480px) {
+    .customers-comments{
+        margin-top: 20rem;
+    }
+}
+
+@media all and (max-width:400px) {
+    .instant-coffe__title{
+        font-size: 4.4rem;
+    }
+    .mohito-wrapper{
+        display: none;
+    }
+}
+
+@media all and (max-width:350px) {
+    .LogoImage {
+        width: 8.6rem;
+        height: 4rem;
+    }
+    .purchase-wrapper{
+        width: 10.8rem;
+        height: 4.6rem;
+        text-align: center;
+    }
+    .purchase{
+        font-size: 1.5rem;
+    }
+    .humbergur-menu {
+        width: 4rem;
+        height: 4rem;
+        border-radius: 1rem;
+    }
+    .humbergur3{
+        margin-bottom: -5px;
+    }
+    .humbergur1{
+        margin-top: -5px;
+    }
+    .transform-rotate{
+        transform: rotate(51deg);
+        top: 23px;
+    }
+    .transform-rotate--reset{
+        transform: rotate(-51deg);
+        bottom: 22px;
+    }
+    .mobile-nav{
+        width: 90%;
+    }
+    .header-title-text{
+        font-size: 5.4rem;
+    }
+    .header-description{
+        font-size: 1.7rem;
+    }
+    .desc-wrapper__title {
+        font-size: 4.4rem;
+    }
+    .desc-wrapper__description{
+        font-size: 1.5rem;
+    }
+    .order-button{
+        width: 100%;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .item-img__wrapper{
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    .desc-price__wrapper{
+        margin: 0 auto;
+    }
+    .item-wrapper{
+        margin-top: 5rem;
+    }
+    .best-items-wrapper{
+        gap: 5rem;
+    }
+    .item-title{
+        font-size: 4rem;
+        max-width:21rem;
+    }
+    .title{
+        font-size: 4.4rem;
+    }
+    .customers-comments{
+        margin-top: 10rem;
+    }
+    .footer-logo__img {
+        width: 17.7rem;
+        height: 8.2rem;
+    }
+    .subscribe-button{
+        width: 100%;
+        text-align: center;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .gmail-input__wrapper{
+        width: auto;
+    }
+    .find-out__title{
+        font-size: 3.5rem;
+        text-align: center;
+    }
+}
+
+@media all and (max-width:290px) {
+    .navbar{
+        flex-direction: column;
+        gap: 3rem;
+    }
+    .LogoImage {
+        width: 16.6rem;
+        height: 8rem;
+    }
+    .purchase-wrapper{
+        width: 14.8rem;
+    }
+    .header-title-text{
+        font-size: 4.4rem;
+    }
+    .desc-wrapper__title{
+        font-size: 3.4rem;
+    }
+}
+
+
